@@ -1,0 +1,13 @@
+# .NET build files
+bin/
+obj/
+[Dd]ebug*/
+[Rr]elease*/
+*.user
+.vs/
+
+# JSON files
+# *.json
+
+# Word documents
+!*.docx
